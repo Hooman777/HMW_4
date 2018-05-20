@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/HMW_4.dir/Contractor.cpp.o CMakeFiles/HMW_4.dir/Employee.cpp.o CMakeFiles/HMW_4.dir/main.cpp.o CMakeFiles/HMW_4.dir/Permanent.cpp.o  -o HMW_4 

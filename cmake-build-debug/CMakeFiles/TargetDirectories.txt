@@ -1,0 +1,3 @@
+/Users/hooman/CLionProjects/HMW_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/hooman/CLionProjects/HMW_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hooman/CLionProjects/HMW_4/cmake-build-debug/CMakeFiles/HMW_4.dir

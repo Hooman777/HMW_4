@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hooman/CLionProjects/HMW_4/Contractor.cpp
+Contractor.h
+/Users/hooman/CLionProjects/HMW_4/Contractor.h
+
+/Users/hooman/CLionProjects/HMW_4/Contractor.h
+Employee.h
+/Users/hooman/CLionProjects/HMW_4/Employee.h
+
+/Users/hooman/CLionProjects/HMW_4/Employee.cpp
+Employee.h
+/Users/hooman/CLionProjects/HMW_4/Employee.h
+
+/Users/hooman/CLionProjects/HMW_4/Employee.h
+iostream
+-
+string
+-
+
+/Users/hooman/CLionProjects/HMW_4/Permanent.cpp
+Permanent.h
+/Users/hooman/CLionProjects/HMW_4/Permanent.h
+
+/Users/hooman/CLionProjects/HMW_4/Permanent.h
+Employee.h
+/Users/hooman/CLionProjects/HMW_4/Employee.h
+
+/Users/hooman/CLionProjects/HMW_4/main.cpp
+iostream
+-
+fstream
+-
+Permanent.h
+/Users/hooman/CLionProjects/HMW_4/Permanent.h
+Contractor.h
+/Users/hooman/CLionProjects/HMW_4/Contractor.h
+

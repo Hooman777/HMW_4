@@ -1,0 +1,75 @@
+
+This is a report of all personnel's information:
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+
+Permanent Employee 1
+ID - 10
+Monthly Salary - $6000
+Work Rate - 0.75
+Amount of salary for the current month: $4500
+
+
+Permanent Employee 2
+ID - 20
+Monthly Salary - $12000
+Work Rate - 0.5
+Amount of salary for the current month: $6000
+
+
+Permanent Employee 3
+ID - 30
+Monthly Salary - $7000
+Work Rate - 0.25
+Amount of salary for the current month: $1750
+
+
+Contractor 1
+ID - 60
+Monthly Salary - $6000
+Worked Days for this Month - 22
+Amount of salary for the current month: $4400
+
+
+Contractor 2
+ID - 70
+Monthly Salary - $5500
+Worked Days for this Month - 28
+Amount of salary for the current month: $5133.33
+
+
+Permanent Employee 4
+ID - 40
+Monthly Salary - $75000
+Work Rate - 0.75
+Amount of salary for the current month: $56250
+
+
+Permanent Employee 5
+ID - 50
+Monthly Salary - $5000
+Work Rate - 1
+Amount of salary for the current month: $5000
+
+
+Contractor 3
+ID - 80
+Monthly Salary - $12000
+Worked Days for this Month - 17
+Amount of salary for the current month: $6800
+
+
+Contractor 4
+ID - 90
+Monthly Salary - $5500
+Worked Days for this Month - 26
+Amount of salary for the current month: $4766.67
+
+
+Contractor 5
+ID - 100
+Monthly Salary - $6000
+Worked Days for this Month - 20
+Amount of salary for the current month: $4000
+
